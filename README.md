@@ -10,4 +10,5 @@ Simple docker-compose for local wordpress development including Wordpress, MySQL
 
 ### Other commands
 `docker-compose down` to stop the container.
+
 `docker-compose build` to rebuild the container.
